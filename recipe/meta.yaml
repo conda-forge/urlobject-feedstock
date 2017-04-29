@@ -1,8 +1,8 @@
 {%set name = "URLObject" %}
-{%set version = "2.4.2" %}
+{%set version = "2.4.3" %}
 {%set compress_type = "tar.gz" %}
 {%set hash_type = "sha256" %}
-{%set hash_val = "dd0f08a81d89485b1e587fd60aec4b8482859788e5ace67dd1b0d4a001515c57" %}
+{%set hash_val = "47b2e20e6ab9c8366b2f4a3566b6ff4053025dad311c4bb71279bbcfa2430caa" %}
 {%set build_num = "0" %}
 
 package:
