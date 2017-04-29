@@ -14,9 +14,9 @@ Summary: A utility class for manipulating URLs.
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/urlobject-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/urlobject-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/urlobject-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/urlobject-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/urlobject-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/urlobject-feedstock/branch/master)
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/tmp6e7tu8b9-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/tmp6e7tu8b9-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/tmp6e7tu8b9-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/tmp6e7tu8b9-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/tmp6e7tu8b9-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/tmp6e7tu8b9-feedstock/branch/master)
 
 Current release info
 ====================
