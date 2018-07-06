@@ -14,14 +14,15 @@ Summary: A utility class for manipulating URLs.
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/tmp6e7tu8b9-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/tmp6e7tu8b9-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/tmp6e7tu8b9-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/tmp6e7tu8b9-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/tmp6e7tu8b9-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/tmp6e7tu8b9-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/urlobject-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/urlobject-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/urlobject/badges/version.svg)](https://anaconda.org/conda-forge/urlobject)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/urlobject/badges/downloads.svg)](https://anaconda.org/conda-forge/urlobject)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-urlobject-green.svg)](https://anaconda.org/conda-forge/urlobject) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/urlobject.svg)](https://anaconda.org/conda-forge/urlobject) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/urlobject.svg)](https://anaconda.org/conda-forge/urlobject) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/urlobject.svg)](https://anaconda.org/conda-forge/urlobject) |
 
 Installing urlobject
 ====================
@@ -66,6 +67,7 @@ To manage the continuous integration and simplify feedstock maintenance
 Using the ``conda-forge.yml`` within this repository, it is possible to re-render all of
 this feedstock's supporting files (e.g. the CI configuration files) with ``conda smithy rerender``.
 
+For more information please check the [conda-forge documentation](https://conda-forge.org/docs/).
 
 Terminology
 ===========
